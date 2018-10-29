@@ -2,4 +2,4 @@
 
 Example Turtle/Phyton
 
-![](https://imgur.com/WwrmXmZ)
+![](https://i.imgur.com/WwrmXmZ.png)
