@@ -163,7 +163,7 @@ while flag:
             score_pen.clear()
             score_pen.write(scorestring, False, align='left', font=('Arial', 12, 'bold'))
 
-        if isCollision(player, enemy) or enemy.ycor()<=-250:
+        if isCollision(player, enemy):
             os.system("aplay explosion.wav&")
             player.hideturtle()
             enemy.hideturtle()
